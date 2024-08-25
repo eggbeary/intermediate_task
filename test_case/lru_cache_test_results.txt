@@ -1,0 +1,38 @@
+Run 1:
+Total memory: 83886080
+Free memory: 75265416
+Used memory: 8620664
+Objects in old generation: 48
+Memory used by old generation objects: 1152
+
+Run 2:
+Total memory: 83886080
+Free memory: 75252136
+Used memory: 8633944
+Objects in old generation: 49
+Memory used by old generation objects: 1176
+
+Run 3:
+Total memory: 83886080
+Free memory: 75252416
+Used memory: 8633664
+Objects in old generation: 50
+Memory used by old generation objects: 1200
+
+Run 4:
+Total memory: 83886080
+Free memory: 75252416
+Used memory: 8633664
+Objects in old generation: 50
+Memory used by old generation objects: 1200
+
+Run 5:
+Total memory: 83886080
+Free memory: 75252368
+Used memory: 8633712
+Objects in old generation: 50
+Memory used by old generation objects: 1200
+
+Average Results:
+Average objects in old generation: 49.4
+Average memory used by old generation objects: 1185.6
